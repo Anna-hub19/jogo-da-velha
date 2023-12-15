@@ -78,7 +78,7 @@
     content: "";
     height: calc(100px * 0.15);
     width: calc(100px * 0.9);
-    background: #808080 ;
+    background: #fff ;
     position: absolute;
   }
   
@@ -100,7 +100,7 @@
     content: "";
     height: calc(100px * 0.9);
     width: calc(100px * 0.9);
-    background: #808080 ;
+    background: #fff ;
     position: absolute;
     border-radius: 50%;
   }
