@@ -1,4 +1,4 @@
-# filmes-favoritos
+# Jogo da velha
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
